@@ -15,3 +15,8 @@ This looks like this:
 It basically emulates click to this menu item:
 
 ![Preview 1](./imgs/ytd_hidevideo_1.png)
+
+### Installation
+
+- Install [Tampermonkey](https://www.tampermonkey.net) for your browser;
+- Download **ytd_hidevideo.js** and paste it into Tampermonkey;
